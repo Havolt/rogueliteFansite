@@ -1,0 +1,25 @@
+
+//// What is this site? \\\\
+
+This site will be a gathering place for all things roguelite. Roguelites are video games which have a shared set of rules. 
+Usually they entailthings such as permanent death, randomized levels, loot which helps the character and a high difficulty level.
+
+
+//// What will be the main elements of the site \\\\
+
+The main aspects of the site will be reviews of currently released roguelite games, previews of upcoming roguelites, a list of the
+current best roguelite games currently on the market (possible voted on by the community). There will be a section on the history of
+roguelite games going into how it came to be what it is now. There will be a media page for trailers. Maybe a highlights section for
+lets players of roguelite games.
+
+
+//// What will the design theme of the site be \\\\
+
+The design will focus on a retro design as if the page itself was a retro videogame. 
+Color pallete will change depending on section of site to match themes but the sites main color will be #366abc
+
+
+//// What will be on the index page \\\\\
+
+The index page will have a feed section to show the latest new items put on the site.
+It will have a link bar at the top of the page which will bring the user to other parts of the site.
