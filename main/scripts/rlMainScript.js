@@ -1,7 +1,7 @@
 
-let testObj = {type: 'div', append: '.rlApp', class: ['testDiv'], inHL: 'Hello World', evt: {type: 'click', func: testFunc}}
+let testObj = {type: 'div', append: '.rlApp', classes: ['testDiv', 'hvPoint'], inHL: 'Hello World', evt: {type: 'click', func: testFunc}, id: 'testDivId', lnk: {hrf: 'http://www.wikipedia.com'}};
 
-let testFunc = function(){
+function testFunc(){
     console.log('working');
 }
 
