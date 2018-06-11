@@ -23,3 +23,10 @@ Color pallete will change depending on section of site to match themes but the s
 
 The index page will have a feed section to show the latest new items put on the site.
 It will have a link bar at the top of the page which will bring the user to other parts of the site.
+
+
+*News
+*Reviews
+*Articles
+*Top Games
+*About

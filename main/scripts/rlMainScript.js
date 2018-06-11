@@ -1,11 +1,18 @@
 
-let testObj = {type: 'div', append: '.rlApp', classes: ['testDiv', 'hvPoint'], inHL: 'Hello World', evt: {type: 'click', func: testFunc}, id: 'testDivId', lnk: {hrf: 'http://www.wikipedia.com'}};
+let siteElArr = [
+    {type: 'div', classes: ['rlHead'], append: '.rlApp'},
+    {type: 'div', classes: ['rlMain'], append: '.rlApp'},
+    {type: 'div', classes: ['rlFoot'], append: '.rlApp'}
+];
 
-function testFunc(){
-    console.log('working');
-}
 
-(function initApp(){
-    console.log('roglite')
-    rlCreEl(testObj);
+
+
+
+
+(function initApp(){    
+    siteElArr.map(function(item){
+        console.log(item)
+        rlCreEl(item);
+    })
 })()
